@@ -1,3 +1,3 @@
-# Gagan 
+# Phoenix
 
-Gagan Theme For Stream-Pi Client. Written By Debayan Sutradhar (rnayabed).
+Phoenix Theme For Stream-Pi Client. Written By resteqs.
