@@ -1,3 +1,3 @@
-# Gagan 
+# Seth
 
-Gagan Theme For Stream-Pi Client. Written By Debayan Sutradhar (rnayabed).
+Seth Theme For Stream-Pi Client. Written By resteqs.
