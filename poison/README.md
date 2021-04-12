@@ -1,3 +1,3 @@
-# Phoenix
+# Poison
 
-Phoenix Theme For Stream-Pi Client. Written By resteqs.
+Poison Theme For Stream-Pi Client. Written By resteqs.
