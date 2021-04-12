@@ -1,0 +1,109 @@
+* {
+    -bg-color : #2ec90c;
+    -font-color : white;
+    -text-field-prompt-text : #29e000;
+    -text-field-border-color : #0404d1;
+    -icon-color : -font-color;
+}
+
+Label
+{
+    -fx-text-fill : -font-color ;
+}
+
+.dashboard{
+    -fx-background-image: url("galaxy-2643089_1920.jpg");
+    -fx-background-repeat:stretch;
+    -fx-background-size:  100%  100%;
+    -fx-background-position: bottom ;
+}
+
+.action_box
+{
+	-fx-effect: dropshadow( three-pass-box , rgba(41,224,0,1) , 20,0.9,0,0);
+	-fx-shape: "M 100 100 L 300 100 L 200 300 z";
+
+}
+
+.dashboard_settings_button
+{
+	-fx-background-color:black;
+}
+
+.root {
+    -fx-focus-color: -fx-accent;
+    -fx-base: -bg-color;
+    -fx-background-color:  -bg-color;
+    -fx-text-fill: -font-color ;
+}
+
+.ikonli-font-icon
+{
+    -fx-icon-color: -icon-color;
+}
+
+.settings_base, .settings_base_vbox, .settings_button_bar{
+    -fx-background-color :  -bg-color;
+}
+
+
+.settings_base_scroll_pane {
+    -fx-background: -bg-color;
+    -fx-border-color:-bg-color;
+}
+
+
+.text-field
+{
+    -fx-text-fill: -font-color ;
+    -fx-prompt-text-fill: -text-field-prompt-text;
+    -fx-background-color : -bg-color;
+    -fx-border-width : 0 0 1 0;
+    -fx-border-color: -text-field-prompt-text;
+}
+
+
+
+.alert_pane
+{
+    -fx-background-color : -bg-color;
+    -fx-border-color : -bg-color;
+}
+
+.alert_content_pane
+{
+    -fx-background-color: -bg-color;
+    -fx-padding: 5;
+}
+
+.alert_scroll_pane
+{
+    -fx-background:  -bg-color;
+    -fx-border-color:-bg-color;
+}
+
+.alert_button_bar
+{
+    -fx-background-color:-bg-color;
+}
+
+.combo_box
+{
+    -fx-alignment:CENTER_LEFT;
+    -fx-pref-width:200;
+    -fx-padding: 5;
+    -fx-border-width : 1;
+    -fx-border-color : grey;
+    -fx-border-radius : 3;
+}
+
+.combo_box_popup
+{
+    -fx-background: -bg-color;
+    -fx-border-color: -bg-color;
+}
+
+.combo_box_popup_vbox
+{
+    -fx-background-color: -bg-color;
+}
