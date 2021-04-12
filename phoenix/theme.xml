@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<configuration>
+    <theme-platform-version>1.0.0</theme-platform-version>
+    
+    <info>
+    	<website>https://github.com/rnayabed/stream-pi-themes/tree/master/Client/in.rnayabed.gagan</website>
+        <short-name>Gagan</short-name>
+        <author>rnayabed</author>
+        <version>1.0.0</version>
+    </info>
+    
+    <theme>
+        <stylesheets>
+            <stylesheet>res/style.css</stylesheet>
+        </stylesheets>
+    </theme>
+</configuration>
