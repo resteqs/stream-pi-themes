@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<configuration>
+    <theme-platform-version>1.0.0</theme-platform-version>
+    
+    <info>
+    	<website>https://github.com/resteqs/stream-pi-themes</website>
+        <short-name>rosa</short-name>
+        <author>resteqs</author>
+        <version>1.0.0</version>
+    </info>
+    
+    <theme>
+        <stylesheets>
+            <stylesheet>res/style.css</stylesheet>
+        </stylesheets>
+    </theme>
+</configuration>
